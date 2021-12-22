@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! I'm Jason 👋
+
+I'm a full stack software developer with over 10 years in international education. I completed Coding Dojo's full stack python course in February 2021, and since then I have been creating full stack python projects, and teaching myself React.Js. Below are a few projects I'm working on. If you'd like to view them on a separate page, [click here to visit my personal website.](https://jb-portfolio.vercel.app/)
 
 <!--
 **JpBongiovanni/JpBongiovanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
